@@ -1,0 +1,5 @@
+{
+  "name": "SBS Cordova Inventory",
+  "description": "A comprehensive inventory tracking system with multi-location support, audit trails, and bulk management tools.",
+  "requestFramePermissions": []
+}
